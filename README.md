@@ -76,10 +76,18 @@
   <a href="https://www.facebook.com/shohelranatonmoy1996">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge" height="25" alt="Facebook"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="25" alt="Twitter"/>
-  </a>
+
 </div>
+
+---
+
+## 💻 Projects & Portfolio
+
+- [AI Landing Page (Next.js)](https://ai-landing-page-next-js.vercel.app/) – A modern AI startup landing page built with **Next.js** and **ShadCN**.  
+- [Dragon News Portal (React.js)](https://dragon-news-react-js-66oj.vercel.app/) – A fully responsive news portal with **category-based filtering**, **Firebase authentication**, and **Bangla/English support**.  
+- [React Blog Platform](https://react-blog-eight-liard.vercel.app/) – A personal blog platform showcasing **HTML, CSS, JavaScript**, and **Next.js**.  
+- [Portfolio Website](https://protfolio-website-next-js-j971.vercel.app/) – Personal portfolio built with **Next.js**, **TailwindCSS**, and **ShadCN**.  
+
 
 ---
 
@@ -92,17 +100,29 @@
 
 ---
 
-## 💼 Portfolio
+## 🏆 Achievements & Learning
 
-Check out my work: [Portfolio Website](https://protfolio-website-next-js-j971.vercel.app/)
+- Consistently contributing to open-source projects and personal projects.  
+- Strong understanding of **software development life cycle (SDLC)** and Agile methodologies.  
+- Continuously learning **TypeScript**, **Docker**, **AWS**, and modern UI/UX practices.  
+- Interested in **real-time applications**, **serverless architecture**, and **performance optimization**.  
 
 ---
 
 ## ✨ About Me
 
 - Passionate about **building scalable, modern, and responsive web applications**.  
-- Experienced in **full-stack development** using **PHP, Node.js, Laravel, Vue.js, React.js, and Next.js**.  
-- Skilled in **API integration, real-time applications (WebSockets), responsive UI/UX**, and **version control with Git**.  
-- Familiar with **cloud deployment (AWS, Vercel), containerization (Docker), and design tools (Figma)**.  
-- Based in **Tokyo, Japan**, and open to work with **Japanese and international companies**.  
+- Experienced in **full-stack development** using **PHP**, **Node.js**, **Laravel**, **Vue.js**, **React.js**, **Next.js**.  
+- Skilled in **API integration**, **real-time applications (WebSockets)**, **responsive UI/UX**, and **version control with Git**.  
+- Familiar with **cloud deployment (AWS, Vercel)**, **containerization (Docker)**, and **design tools (Figma)**.  
+- Based in **Tokyo, Japan**, open to work with **Japanese and international companies**.  
+- Always learning and improving, aiming to **deliver clean, maintainable, and professional code**.  
+
+---
+
+## 🌏 Languages
+
+- **English:** Professional proficiency  
+- **Japanese:** Conversational / Basic technical reading  
+- **Bengali:** Native  
 
