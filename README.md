@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Shohel Rana</h1>
+<h1 align="center">Hi 👋, I'm Shohel Rana</h1>
 <h3 align="center">Full-Stack Web Developer | Node.js & PHP | React.js, Next.js, Vue.js | Laravel & Express.js | MySQL & MongoDB</h3>
 
 ---
@@ -6,25 +6,63 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="TailwindCSS" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=shadcn" height="50" alt="ShadCN" />
+
+<br><br>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js" />
+
+<br><br>
+
+<!-- Database & API -->
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+
+<br><br>
+
+<!-- DevOps & Cloud -->
+<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
+
 </div>
 
 ---
@@ -54,16 +92,6 @@
 
 ---
 
-## 🏆 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shohel-rana/shohel-rana/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shohel-rana/shohel-rana/output/pacman-contribution-graph.svg">
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/shohel-rana/shohel-rana/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ## 💼 Portfolio
 
 Check out my work: [Portfolio Website](https://protfolio-website-next-js-j971.vercel.app/)
@@ -72,11 +100,9 @@ Check out my work: [Portfolio Website](https://protfolio-website-next-js-j971.ve
 
 ## ✨ About Me
 
-- Passionate about **building scalable and responsive web applications**.  
-- Experienced with **full-stack development** using PHP, Node.js, Laravel, Vue.js, React.js, and Next.js.  
-- Skilled in **API integration, real-time apps (WebSockets), responsive design**, and **version control with Git**.  
-- Continuously improving workflows using **VSCode, Figma, and Postman**.  
-- Based in **Tokyo, Japan**, open to work with **Japanese and international companies**.  
-
----
+- Passionate about **building scalable, modern, and responsive web applications**.  
+- Experienced in **full-stack development** using **PHP, Node.js, Laravel, Vue.js, React.js, and Next.js**.  
+- Skilled in **API integration, real-time applications (WebSockets), responsive UI/UX**, and **version control with Git**.  
+- Familiar with **cloud deployment (AWS, Vercel), containerization (Docker), and design tools (Figma)**.  
+- Based in **Tokyo, Japan**, and open to work with **Japanese and international companies**.  
 
