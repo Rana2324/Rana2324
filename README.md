@@ -69,6 +69,9 @@ Full-Stack Web Developer | Node.js & PHP | React.js, Next.js, Vue.js | Laravel &
 <!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Rana2324&theme=radical&row=1&margin-w=8&margin-h=8" height="150" alt="GitHub trophies"/>
 
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rana2324&theme=dracula)](https://github.com/Rana2324)
+
 </div>
 
 ---
@@ -98,4 +101,3 @@ Full-Stack Web Developer | Node.js & PHP | React.js, Next.js, Vue.js | Laravel &
 - **English:** Professional proficiency  
 - **Japanese:** Conversational / Technical reading  
 - **Bengali:** Native  
-
